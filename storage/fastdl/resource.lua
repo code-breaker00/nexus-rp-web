@@ -2,7 +2,7 @@
     Garry's Mod FastDL resource.lua 
     Generated using: Workshop Collection Generator
     https://yourdevtools.com/gmod/workshop
-  --]] 
+  --]]
 -- Workshop Items ( 3416889131 )
 
 resource.AddWorkshop( "610419332" ) -- (Official Pack) Police Agents { Playermodels }
@@ -343,4 +343,5 @@ resource.AddWorkshop( "236224475" ) -- [LW] Dodge Charger Daytona HEMI
 resource.AddWorkshop( "889442273" ) -- 2013 Rolls-Royce Phantom
 resource.AddWorkshop( "882310019" ) -- Atlas Chat - Content
 resource.AddWorkshop( "207948202" ) -- Simple ThirdPerson - Sliders & Fixes!
+resource.AddWorkshop( "2794600288" ) -- KB GMS - Realistic Car Dealer
   
