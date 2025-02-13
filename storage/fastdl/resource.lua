@@ -3,7 +3,7 @@
     Generated using: Workshop Collection Generator
     https://yourdevtools.com/gmod/workshop
   --]]
--- Workshop Items ( 3416889131 )
+-- Workshop Items ( 3416889131 ) d
 
 resource.AddWorkshop( "610419332" ) -- (Official Pack) Police Agents { Playermodels }
 resource.AddWorkshop( "1945462686" ) -- [ TFA ] [ AT ] IMI Uzi
