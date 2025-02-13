@@ -320,4 +320,25 @@ resource.AddWorkshop( "860010628" ) -- Stagecoach Bus Reskin
 resource.AddWorkshop( "1092381908" ) -- Photon Fire & Rescue
 resource.AddWorkshop( "1112537374" ) -- Medic Mod - Content
 resource.AddWorkshop( "2126927780" ) -- KB GMS - Realistic Police System
+resource.AddWorkshop( "175983422" ) -- 1950's Playermodel lua
+resource.AddWorkshop( "1595332211" ) -- GmodAdminSuite
+resource.AddWorkshop( "119148120" ) -- TDMCars - Lamborghini
+resource.AddWorkshop( "2903693243" ) -- WizWagons - 1995 Ford F800 Pumper
+resource.AddWorkshop( "3161529350" ) -- Creeper Shared Textures
+resource.AddWorkshop( "3163156637" ) -- [PHOTON 2] Whelen 600 Series
+resource.AddWorkshop( "3169106502" ) -- 2017 Freightliner M2-106 Ambulance
+resource.AddWorkshop( "316528995" ) -- [LW] Dodge Monaco
+resource.AddWorkshop( "2973136670" ) -- Tesla Model Y Performance
+resource.AddWorkshop( "1348270094" ) -- [CTVehicles] Shared Textures
+resource.AddWorkshop( "1417334733" ) -- [CTVehicles] Western Star 5700OP "Optimus"
+resource.AddWorkshop( "2765944239" ) -- WizWagons Shared Files
+resource.AddWorkshop( "3145465679" ) -- WizWagons - 1968 Dodge Charger
+resource.AddWorkshop( "2951316695" ) -- WizWagons - 1932 Ford De Luxe Coupe Pack (Stock + Hotrod)
+resource.AddWorkshop( "2889946091" ) -- WizWagons - 1965 Ford Mustang GT
+resource.AddWorkshop( "239472888" ) -- [LW] Chevrolet MonteCarlo NASCAR
+resource.AddWorkshop( "1149927631" ) -- Chevrolet Monte Carlo SS NASCAR Skins
+resource.AddWorkshop( "1126223556" ) -- CrSk Autos - GAZ-24 Volga (wrong scale)
+resource.AddWorkshop( "242839723" ) -- [LW] Ford Country Squire
+resource.AddWorkshop( "236224475" ) -- [LW] Dodge Charger Daytona HEMI
+resource.AddWorkshop( "889442273" ) -- 2013 Rolls-Royce Phantom
   
