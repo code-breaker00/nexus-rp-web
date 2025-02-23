@@ -1,0 +1,354 @@
+Règles
+INFORMATIONS PRÉALABLES
+Le règlement est mis à jour régulièrement pour s'adapter aux nouveautés et aux changements du serveur. Il est donc important que vous le relisiez de temps en temps.
+
+Faites preuve de bon sens durant vos scènes rôle-play, respectez les scènes rôle-play des autres joueurs et restez fair-play.
+
+Ne cherchez pas la petite faille à exploiter dans les règles.
+
+SECTION 1 : ÉQUIPE DU SERVEUR
+L'équipe du serveur est composée de :
+
+Staff : Ils s'occupent du serveur, de la communauté, du discord, etc.
+
+Animateur : Ils s'occupent de tous les évènements du serveur.
+
+SECTION 2 : RÈGLES DU FORUM
+Les insultes et injures envers d'autres utilisateurs du forum sont strictement interdites.
+
+Ne pas écrire ou répondre à un sujet qui ne vous concerne pas.
+
+Écrire de manière lisible et avec des couleurs correctes.
+
+Vous devez en toute circonstance le respect aux autres utilisateurs du forum.
+
+Vous n'avez pas le droit d'utiliser des pseudos non conformes ou insultants.
+
+SECTION 3 : RÈGLEMENT GÉNÉRAL DU SERVEUR - Les Bases du RP
+Respecter le New Life Rule ("Règle Nouvelle Vie" : Lorsque vous êtes mort, vous ne vous souvenez plus de votre ancienne vie, vous devez attendre la fin de la scène RP pour revenir sur les lieux).
+
+Interdit de NoPainRP / NoFearRP (Respecter la douleur et la peur…).
+
+Interdit de FreeKill (Tuer quelqu’un sans raison RP).
+
+Interdit de FreeArrest (Arrêter quelqu’un sans raison RP).
+
+Interdit de FreeTaze (Tazer quelqu’un sans raison RP).
+
+Interdit de FreePunch (Frapper quelqu’un sans raison RP).
+
+Interdit de PropsKill (Tuer quelqu’un avec un props).
+
+Interdit de PropsSurf (Utiliser un props pour voler).
+
+Interdit de PropsClimb (Accéder à un endroit inaccessible via moyen externe).
+
+Interdit de PropsBlock (Utiliser un props pour bloquer un accès sans keypad).
+
+Interdit de MétaGaming (Utiliser une information HRP en RP).
+
+Interdit de Power-Gaming (Réaliser quelque chose que vous ne pourrez pas faire IRL).
+
+Interdit de BunnyHop (Sauter pour aller plus vite).
+
+Interdit de JumpShoot (Tirer en sautant ou sauter pour esquiver des balles).
+
+Interdit de HRP Vocal (utiliser un langage hors RP : Staff…).
+
+Interdit de ForceRP (Forcer un/des joueur(s) à réaliser une action).
+
+Interdit de UseBug (Exploiter des failles/bugs sur le serveur).
+
+Interdit de SoundBoard (Diffuser de la musique, etc par son micro).
+
+Parler en HRP : // + message.
+
+Faire un Ticket : /support.
+
+Parler en Publicité : /pub + message.
+
+Contacter la police : /911 + message.
+
+SECTION 4 : RÈGLEMENT GÉNÉRAL DU SERVEUR - Insultes et Respect
+Certaines insultes "rôle-play" sont autorisées si elles restent correctes et adaptées à la situation.
+
+Les insultes parentales en RP et/ou HRP sont passibles de sanctions.
+
+Les scènes rôle-play à caractère religieux ou sexuel sont interdites.
+
+Les propos racistes, sexistes, sexuels, misogynes, homophobes, religieux, tout ce qui est à caractères discriminatoires ou autres incivilités graves seront sévèrement punis et sont passibles d'un bannissement permanent.
+
+Pas de panneaux publicitaires ou de text-screens offensants.
+
+Veuillez respecter les autres joueurs de manière générale.
+
+SECTION 5 : RÈGLEMENT GÉNÉRAL DU SERVEUR - Tickets, Tchat et Staffs
+Les membres du Staff qui vous téléporte ont forcément une bonne raison, ils discuteront avec vous s'ils jugent que la situation est importante ou urgente.
+
+Merci d'éviter toutes remarques ou réflexions déplacées auprès du staff lorsque l'on vous téléporte.
+
+En ticket, respectez les joueurs, le staff ainsi que votre tour de parole.
+
+Crier dans tous les sens et couper la parole aux joueurs ou au staff ne servira strictement à rien et ne fera qu'aggraver votre cas.
+
+En cas de doute sur l'interprétation du règlement, demandez l'avis d'un membre du staff ou du Responsable Serveur.
+
+Mentir en disant « c'est un autre membre du staff qui m'a dit que... » ne vous apportera rien de bon.
+
+La durée d'un bannissement est arbitrairement choisie par le membre du staff chargé de vous bannir.
+
+Lorsque vous faites un ticket, terminez tout de même votre actionRP. Un Staff s’occupera de vous, dès la fin de celle-ci.
+
+Provoquer des joueurs dans le tchat est interdit.
+
+Si vous rencontrez un problème, merci de détailler au maximum votre souci dans le ticket.
+
+Il est autorisé de faire de la pub pour sa famille ou bien la gendarmerie en respectant un délai de 15 minutes.
+
+L’utilisation de /me est demandée sur les actions le nécessitant.
+
+Les annonces ayant pour but la provocation gratuite sont interdites.
+
+Il est interdit de menacer un joueur de sanction.
+
+Si un membre du staff estime, avant ou pendant, qu'une action est basée uniquement sur le gun-fight, il se verra alors autorisé à mettre un terme à l'action et sanctionner, si nécessaire, les joueurs cherchant uniquement à se tirer dessus sans but précis.
+
+Il est interdit d’effectuer des /me bâillonne, attache, etc. Pour effectuer ces actions, il vous faudra utiliser les restrains.
+
+SECTION 6 : RÈGLEMENT GÉNÉRAL DU SERVEUR - Crash, Remboursement
+En cas de crash ou clean-up du serveur, les demandes de remboursement se feront directement In-Game.
+
+Si vous n'avez pas perdu grand-chose mais que vous souhaitez quand même un remboursement, un membre du staff vous remboursera.
+
+Si ça ne concerne pas le serveur et que votre jeu se ferme seul, crash ou que vous tombez AFK suite à une inactivité, nous ne sommes pas responsables.
+
+Le staff se réserve le droit de kick quelqu'un à tout moment pour toute raison qu'il trouvera nécessaire à savoir, slot, ping élevé, nom pas rôle-play etc. (sans remboursement).
+
+Aucun remboursement ne sera effectué après un « clean up » ou un « reboot » annoncé au préalable.
+
+Pour pouvoir être remboursé, ayez une preuve.
+
+L'argent contenu dans les printers n'est pas remboursable (uniquement le prix d'achat du printer vous sera rendu). De même pour les printers qui ne vous appartiennent pas.
+
+SECTION 7 : RÈGLEMENT GÉNÉRAL DU SERVEUR - Argent, Compte Steam
+Tout échange et/ou don d'argent in-game de plus de 200.000 € est interdit et est passible d'une réinitialisation d'argent de 50% pour les personnes concernées.
+
+Votre compte Steam est personnel (il ne peut être transmis ou donné à autrui).
+
+Vous êtes responsable de la sécurité de votre compte Steam (si vous le prêtez et que vous venez à vous faire bannir d'un de nos serveurs, ce sera votre problème).
+
+SECTION 8 : RÈGLEMENT GÉNÉRAL DU SERVEUR - RP, HRP, NomRP
+Le HRP-vocal est passible de sanctions.
+
+Avoir un nom rôle-play est obligatoire.
+
+Il est interdit de choisir un nom rôle-play créant un jeu de mots obscènes ou un nom rôle-play controversé attisant la haine.
+
+Votre NomRP devra être sous la forme suivante : Prénom Nom (initiales en Majuscules).
+
+SECTION 9 : RÈGLEMENT GÉNÉRAL DU SERVEUR - Props, Constructions
+Les props doivent être posés de manière logique, pas de props volants, etc.
+
+Les props où l'on voit que d'un côté sont strictement interdits.
+
+Vous ne pouvez pas construire en dehors de chez vous.
+
+Il vous est interdit de construire sur un parking.
+
+Les constructions trop avantageuses, laissant littéralement aucune chance aux personnes voulant attaquer sont interdites.
+
+Il est interdit de mettre plusieurs keypad pour une construction.
+
+Il est interdit de condamner un accès hormis pour les balcons des HLM.
+
+Vous avez l’obligation de contrôler vos fadings-doors depuis le bouton et/ou le keypad.
+
+Vous avez interdiction d’utiliser vos touches de clavier pour les contrôler.
+
+Il est interdit de refermer sa porte une fois qu'elle a été ouverte par un lockpick (excepté après l'action).
+
+Vous avez le droit de toucher à votre fading-door 1 seule fois par action. (Ouvrir / Fermer vos props).
+
+Les meurtrières / micro lignes (laisser de petits espaces entre des props ; ne laisser dépasser que le haut de votre tête...) sont interdites.
+
+Les miradors (poste d'observation/de surveillance) sont interdits.
+
+Les doubles portes (coller un props à une porte de la map) sont interdites.
+
+Le travers (tirer à travers quelque chose) est autorisé uniquement sur les portes en bois, les vitres où l'on voit des deux côtés et les grillages.
+
+Les portes des HLM Taco peuvent être travers.
+
+Vous avez interdiction de tirer à travers les vitres des escaliers de la Mairie.
+
+Avant chaque agencement, servez-vous de l'outil "3D2D Textscreen" pour prouver que vous êtes bel et bien en installation (obligatoire si vous ne souhaitez pas vous faire cambrioler).
+
+Si vous vous servez de l'outil "3D2D Textscreen" pour montrer que vous êtes en construction, il vous sera interdit de débuter votre activité avant la fin de votre agencement.
+
+Il est interdit de poser des props pendant une scène rôle-play.
+
+Le fait de détourer/obstruer la vue d'une pièce avec un ou plusieurs props noir(s), trop foncé(s) ou trop clair(s) est interdit.
+
+Il est interdit de tirer sur des murs et/ou props pour faire des ricochets avec vos balles.
+
+Il est interdit de protéger sa caméra avec un props ou d’y changer le matériau.
+
+Il est interdit de poser un props devant une caméra pour y cacher la vue.
+
+La mise de props limitant le passage à une seule personne est interdite.
+
+Les constructions forçant le passage accroupi sont interdites.
+
+Il est interdit d'utiliser des props avec des matériaux et/ou couleurs empêchant une visibilité correcte.
+
+Placer de faux Keypads pour brouiller les pistes est interdit.
+
+Il est interdit d'utiliser un outil (keypad, bouton etc.) pour s'en servir comme courte-échelle.
+
+Vous vous devez d'avoir qu'une seule zone de tir /vision. (Uniquement pour les constructions en intérieur)
+
+Les personnes qui keypad-crack ne doivent pas être dos ou bien accroupies à votre construction.
+
+Les keypads ne peuvent en aucun cas être cachés. Ils doivent être visibles à côté du props.
+
+Lors d'une construction, vous avez le droit à 2 sas intérieur et 1 sas extérieur dans votre propriété. Le sas extérieur devra être placé à l’extérieur du bâtiment. (Les cages à printers ne comptent pas comme des sas)
+
+Vous avez le droit à 2 seul fading-door maximum par sas, interdiction de stack des props entre eux.
+
+Les constructions avec un props juste au-dessus de la tête des joueurs sont strictement interdites.
+
+Modifier l'opacité de vos props est autorisé uniquement pour les commerces.
+
+SECTION 10 : RÈGLEMENT GÉNÉRAL DU SERVEUR - Armes, Sommations, GunFight
+Les sommations sont obligatoires qu’importe l’action.
+
+Si vous êtes détenteur d'une arme et que vous menacez quelqu'un avec, avant de tirer, assurez-vous d'effectuer des sommations. [1 sommation toutes les 10 secondes] pour l'écrit et l'oral).
+
+Il est interdit de faire des sommations via des tirs.
+
+Pour les sommations à l'écrit, vous avez l’obligation de les faires en /pub et de préciser à qui vous les faites et où vous les faites. (Les GM Hangar U, circulez x1, etc.).
+
+Les sommations entre gangs / familles ne sont pas obligatoires avec raison RP uniquement.
+
+Les sommations sont obligatoires pour l’ensemble des autres métiers. (ex: un voleur qui lockpick votre véhicule devra recevoir des sommations).
+
+Les sommations doivent se faire arme en main.
+
+Il n'est pas obligatoire d'effectuer des sommations si vous êtes dans votre domicile et qu'on y rentre par effraction.
+
+Lors d'une action, si votre arme a été retirée via un "/me", vous devez attendre 5 minutes après l'action pour pouvoir les récupérer.
+
+Vous n'avez pas le droit de ranger votre arme dans votre inventaire en action rôle-play.
+
+Lorsque vous êtes en backstab, une fois que vous avez ouvert le feu, il vous est interdit de ranger votre arme.
+
+Il est interdit de sortir quoi que ce soit de votre inventaire en scène rôle-play.
+
+Il est interdit de tirer depuis l’intérieur d’un véhicule.
+
+De manière générale, le meurtre doit être la dernière solution envisagée lors d’une action rôle-play.
+
+Vous avez interdiction de tuer un joueur non armé et/ou qui ne présente aucun(e) menace / danger pour vous ou vos collègues.
+
+Si l'un de vos collègues est pris en otage, vous avez le choix entre vous rendre, partir ou tenter une négociation pour libérer ce dernier.
+
+Vous avez interdiction de tirer instantanément sur toute personne braquant l’un de vos collègues sans avoir tenter une négociation au préalable. (NoFearRP / Action GF).
+
+La Gendarmerie n’aura pas nécessairement besoin de sommation si elle intervient sur une fusillade entre deux camps.
+
+Le backstab concernant la Gendarmerie est limité à 2 joueurs maximum.
+
+SECTION 11 : RÈGLEMENT GÉNÉRAL DU SERVEUR - Braquage, Prise d’Otage
+Il est interdit de braquer ou cambrioler seul.
+
+Seuls les voleurs et les cambrioleurs sont autorisés à braquer et/ou cambrioleur en étant seuls.
+
+Le vol de véhicule est limité aux voleurs / cambrioleurs.
+
+Il est interdit de braquer et/ou tuer les joueurs dits "inactifs".
+
+Pour soutirer de l'argent à un joueur, vous devrez être 2 minimums et armés. (15.000 € maximum).
+
+Vous avez interdiction de tuer un joueur qui dit ne pas avoir 15.000 €. Vous pouvez le tuer uniquement si il ment en l'ayant fouillé au préalable avec les restrains (serflex).
+
+Il est interdit de braquer et/ou cambrioler un appartement/hangar en construction.
+
+Libérer les otages sur le lieu du braquage est interdit, ceci est considéré comme une action de GunFight.
+
+Vous ne pouvez pas demander ou voler l'arme d'une personne que vous braquer.
+
+Il vous est interdit de prendre en otage un cuisinier, un dépanneur, un samu ou un armurier.
+
+Il vous est interdit de braquer le samu pour avoir des frais médicaux gratuits ou en recevoir plus rapidement, de braquer l'armurier pour avoir des armes gratuites, de braquer le cuisinier pour avoir de la nourriture gratuite et de braquer le dépanneur pour avoir la réparation d'un véhicule gratuitement.
+
+Il faut 4 gendarmes minimum pour pouvoir débuter un braquage ou une prise d'otage.
+
+Il faut 2 gendarmes minimum pour pouvoir faire un braquage de supérette, les otages ne sont pas obligatoires et vous devez partir le plus vite possible.
+
+Si vous souhaitez prendre un otage pour un braquage de supérette il faudra 4 Gendarmes.
+
+Il vous est autorisé de braquer la supérette seul.
+
+Il faut être minimum 2 pour faire une prise d'otage ou braquer l'armurerie, la banque ou le casino.
+
+Le contre-braquage est interdit.
+
+Le contre-cambriolage est interdit.
+
+Lors d'une prise d'otage, le montant plafond est de 200.000€ par otage simple et 500.000€ pour le maire.
+
+Vous n'avez pas le droit de braquer la même personne et/ou cambrioler la même maison plusieurs fois d'affilée (15 minutes d'attente).
+
+5 minutes d'attente entre chaque action rôle-play impliquant la gendarmerie et/ou le GIGN sera demandé.
+
+Vous pouvez braquer seul et/ou menacer une personne lors d'une action rôle-play pour libérer quelqu'un.
+
+Les gendarmes annoncés comme négociateurs n'ont pas le droit d’être pris en otage.
+
+Les guerres de gangs ou familles se font en /pub (il faudra l'accord des deux chefs respectifs).
+
+C'est uniquement les chefs respectifs qui peuvent accepter, refuser ou déclarer une guerre.
+
+Vous vous devez d’attendre au minimum 20 minutes si vous souhaitez engager une action contre le maire après son installation.
+
+Si vous venez à vous faire braquer par 3 personnes (minimum), il faudra baisser son arme et se rendre (même si vous aviez une arme de sortie auparavant).
+
+Vous avez le droit de mentir sur la position du dépôt d'un otage.
+
+Les otages sont obligatoire pour tout braquage (banque, armurerie, etc.).
+
+Le nombre maximum d'otages est limité à 10.
+
+Interdiction aux gangs et aux familles de s'installer et/ou de braquer les bâtiments types "magasins" (seul les voleurs/cambrioleurs pourront y s'introduire frauduleusement ou la gendarmerie pour d'éventuels contrôles).
+
+Les doubles actions sont autorisées à partir de 10 gendarmes.
+
+Vous avez interdiction de braquer plusieurs fois un coffre lors d'un braquage de banque / casino / bar / armurerie. (1 fois maximum)
+
+Vous avez interdiction de revendre les sacs d'un braquage en présence d'un otage.
+
+Il est interdit de prendre en otage un joueur du même métier que vous. (Les faux otages sont également interdits).
+
+SECTION 12 : RÈGLEMENT GÉNÉRAL DU SERVEUR - Printers
+Il est autorisé de voler les printers des joueurs uniquement pour les métiers où la possession de printers est autorisée.
+
+Si vous le souhaitez, vous pouvez détruire les printers d'autrui.
+
+Il est interdit de détruire des printers en action rôle-play.
+
+Il est possible d'entendre le son des printers.
+
+Il est interdit de cacher des printers dans des endroits impossibles types lit, bureau etc. Ils doivent être dans un endroit possible physiquement.
+
+Autres règles
+Il est interdit de voler les véhicules de fonction.
+
+5 minutes après le /me assome, le joueur pourra retrouver la mémoire et ainsi, se souvenir de ce qu'il s'est passé.
+
+Il est interdit de restreindre l'accès à un point de drogue.
+
+Le fait que les Gendarmes soient en formation ne met pas en pause les actions.
+
+Il est interdit de monter sur les toits hormis pour les métiers possédant un grappin.
+
+Les calls externe (discord, ts, etc.) que vous faites à vos collègues doivent être fait en jeu lorsque vous êtes face à des joueurs. (MétaGaming)
