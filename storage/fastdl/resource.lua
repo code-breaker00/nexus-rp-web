@@ -60,7 +60,6 @@ resource.AddWorkshop( "927058207" ) -- French ID Card - Darkrp Support
 resource.AddWorkshop( "559017762" ) -- FSpectate
 resource.AddWorkshop( "3173952314" ) -- GMod4life - AWM Gauss, M3 Dragon
 resource.AddWorkshop( "890584659" ) -- Halte Gendarmerie Prop
-resource.AddWorkshop( "2000865255" ) -- Hide ULX & ULib Commands
 resource.AddWorkshop( "108424005" ) -- Keypad Tool and Cracker with Wire Support
 resource.AddWorkshop( "405941556" ) -- log system
 resource.AddWorkshop( "128089118" ) -- M9K Assault Rifles
@@ -310,7 +309,6 @@ resource.AddWorkshop( "889442273" ) -- 2013 Rolls-Royce Phantom
 resource.AddWorkshop( "882310019" ) -- Atlas Chat - Content
 resource.AddWorkshop( "207948202" ) -- Simple ThirdPerson - Sliders & Fixes!
 resource.AddWorkshop( "2794600288" ) -- KB GMS - Realistic Car Dealer
-resource.AddWorkshop( "3306235913" ) -- HKRP Vehicles #1
 resource.AddWorkshop( "1597971012" ) -- Kevlar Factory Content
 resource.AddWorkshop( "184937635" ) -- Payday 2 Clown Masks
 resource.AddWorkshop( "2916599780" ) -- Contents ~ Realistic Robbery
@@ -373,4 +371,28 @@ resource.AddWorkshop( "728328781" ) -- aMenu Content
 resource.AddWorkshop( "2577226194" ) -- Zeros Masterchef - Contentpack
 resource.AddWorkshop( "1956177393" ) -- Xenin F4 - Content Package
 resource.AddWorkshop( "290961117" ) -- Destructible Doors for Gmod!
+resource.AddWorkshop( "108024198" ) -- Food and Household items
+resource.AddWorkshop( "2973512530" ) -- [VManip]Door Interaction Animation
+resource.AddWorkshop( "1731790875" ) -- NYPD Detective Police Badge
+resource.AddWorkshop( "546360684" ) -- Empty-handed player spawn
+resource.AddWorkshop( "1693883096" ) -- Kill Feed Disabler
+resource.AddWorkshop( "1470029857" ) -- Molotov Cocktail (w/ vFire Support!)
+resource.AddWorkshop( "1089287594" ) -- Russian road signs Ultimate
+resource.AddWorkshop( "474159344" ) -- The Colibri
+resource.AddWorkshop( "2800647141" ) -- [LFS] Tupolev Tu-104A/Tu-124 Pack
+resource.AddWorkshop( "104990330" ) -- WAC Aircraft
+resource.AddWorkshop( "116014889" ) -- WAC RoflCopter
+resource.AddWorkshop( "2969380091" ) -- Paolo ► LAPD AS350 [WAC]
+resource.AddWorkshop( "653745983" ) -- 2014 Lamborghini Veneno + Police
+resource.AddWorkshop( "1833346366" ) -- [LFS] UH-1H NYPD skin
+resource.AddWorkshop( "3111031938" ) -- undefined
+resource.AddWorkshop( "2912816023" ) -- [LVS] - Framework
+resource.AddWorkshop( "2349250137" ) -- [LFS] First Order Transport
+resource.AddWorkshop( "2454000670" ) -- [LFS] GTAV Police Maverick
+resource.AddWorkshop( "2901408147" ) -- [CONTENT] Juk Hacking System
+resource.AddWorkshop( "1419266438" ) -- DRadio Materials
+resource.AddWorkshop( "2302168468" ) -- Dradio Realistic Sounds - Content
+resource.AddWorkshop( "2035017075" ) -- dRadio content
+resource.AddWorkshop( "2066012561" ) -- [Content] Mechanical System
+resource.AddWorkshop( "1738302640" ) -- Water System
   
