@@ -1,4 +1,4 @@
---[[
+--[[ 
     Garry's Mod FastDL resource.lua 
     Generated using: Workshop Collection Generator
     https://yourdevtools.com/gmod/workshop
