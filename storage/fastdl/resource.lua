@@ -328,7 +328,6 @@ resource.AddWorkshop( "105841291" ) -- More Materials!
 resource.AddWorkshop( "2051674221" ) -- 3D Proximity Chat
 resource.AddWorkshop( "2962201616" ) -- 3eme personne
 resource.AddWorkshop( "2485178558" ) -- APhone
-resource.AddWorkshop( "3293939372" ) -- Enhanced Proximity Voice Chat
 resource.AddWorkshop( "1191388328" ) -- Atickets : Simple admin ticket/popups system
 resource.AddWorkshop( "1919853563" ) -- 2021 Tesla Cybertruck
 resource.AddWorkshop( "1656146552" ) -- Lucius Playermodel
@@ -337,7 +336,6 @@ resource.AddWorkshop( "2534171084" ) -- Flashlight Texture Overhaul.
 resource.AddWorkshop( "1841050882" ) -- Realistic Blood Fix
 resource.AddWorkshop( "2393452412" ) -- Improved Blood Textures
 resource.AddWorkshop( "964461460" ) -- [Photon]LAFD Dodge RAM1500 Ambulance [Discontinued]
-resource.AddWorkshop( "2844198939" ) -- [Photon] EMT / AutoBus Madrid Bus Citing's 112 Spanish Emergency Vehicles (Empresa Municipal de Transportes)
 resource.AddWorkshop( "814788176" ) -- [Photon] Ford Crown Victoria Undercover Police Taxi
 resource.AddWorkshop( "726053333" ) -- [Photon] NYPD F-350 ESU
 resource.AddWorkshop( "627504035" ) -- [Photon] NYPD Whelen SmartArrow Messenger
@@ -394,5 +392,29 @@ resource.AddWorkshop( "1419266438" ) -- DRadio Materials
 resource.AddWorkshop( "2302168468" ) -- Dradio Realistic Sounds - Content
 resource.AddWorkshop( "2035017075" ) -- dRadio content
 resource.AddWorkshop( "2066012561" ) -- [Content] Mechanical System
-resource.AddWorkshop( "1738302640" ) -- Water System
+resource.AddWorkshop( "128559085" ) -- WAC Community 4
+resource.AddWorkshop( "162016658" ) -- WAC Community 7
+resource.AddWorkshop( "108909229" ) -- WAC Community 2
+resource.AddWorkshop( "108907015" ) -- WAC Community 1
+resource.AddWorkshop( "953396297" ) -- WAC Base [Mod/BF]
+resource.AddWorkshop( "2810481998" ) -- [LFS] Helicopter Pack #1
+resource.AddWorkshop( "2608784717" ) -- Gordon's Globally Shared
+resource.AddWorkshop( "1131455085" ) -- Gredwitch's Base
+resource.AddWorkshop( "2429145574" ) -- [LFS] GTA IV Helicopters
+resource.AddWorkshop( "3288535333" ) -- [LVS] ТОС-1А
+resource.AddWorkshop( "3240860169" ) -- [LVS] БМ-13Н
+resource.AddWorkshop( "3127790930" ) -- SW Bombs V3
+resource.AddWorkshop( "3127793643" ) -- SW Bombs V3 | Russian content
+resource.AddWorkshop( "3027255911" ) -- [LVS] - Cars
+resource.AddWorkshop( "1579161327" ) -- [LFS] GTAV Planes
+resource.AddWorkshop( "1627010771" ) -- [Textures] NotAKids GTAV Required
+resource.AddWorkshop( "2235142698" ) -- [LFS] F-35C
+resource.AddWorkshop( "1703878123" ) -- Merydian's LFS stuff
+resource.AddWorkshop( "2188844057" ) -- [LFS] F4U "Corsair"
+resource.AddWorkshop( "2107432835" ) -- WoWs USA content
+resource.AddWorkshop( "2755534856" ) -- [LFS] Messerschmitt Bf-109 Early Pack
+resource.AddWorkshop( "1822912636" ) -- [LFS] GPD HP-225
+resource.AddWorkshop( "2620649553" ) -- GPD HP-225 Remastered PROP
+resource.AddWorkshop( "1961246116" ) -- [LFS]SciFi Shuttle (Transport Shuttle Only) [OUTDATED]
+resource.AddWorkshop( "259383381" ) -- Sci-Fi Shuttle Modelpack
   
