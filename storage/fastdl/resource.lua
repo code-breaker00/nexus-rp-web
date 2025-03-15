@@ -1,4 +1,4 @@
---[[ 
+--[[
     Garry's Mod FastDL resource.lua 
     Generated using: Workshop Collection Generator
     https://yourdevtools.com/gmod/workshop
@@ -391,7 +391,6 @@ resource.AddWorkshop( "2901408147" ) -- [CONTENT] Juk Hacking System
 resource.AddWorkshop( "1419266438" ) -- DRadio Materials
 resource.AddWorkshop( "2302168468" ) -- Dradio Realistic Sounds - Content
 resource.AddWorkshop( "2035017075" ) -- dRadio content
-resource.AddWorkshop( "2066012561" ) -- [Content] Mechanical System
 resource.AddWorkshop( "128559085" ) -- WAC Community 4
 resource.AddWorkshop( "162016658" ) -- WAC Community 7
 resource.AddWorkshop( "108909229" ) -- WAC Community 2
@@ -417,4 +416,12 @@ resource.AddWorkshop( "1822912636" ) -- [LFS] GPD HP-225
 resource.AddWorkshop( "2620649553" ) -- GPD HP-225 Remastered PROP
 resource.AddWorkshop( "1961246116" ) -- [LFS]SciFi Shuttle (Transport Shuttle Only) [OUTDATED]
 resource.AddWorkshop( "259383381" ) -- Sci-Fi Shuttle Modelpack
+resource.AddWorkshop( "2799914819" ) -- [SW][LFS] S7 airlines Boeing 737-800 reskin
+resource.AddWorkshop( "3355847111" ) -- [LFS] MI-8_Compres
+resource.AddWorkshop( "3353915053" ) -- [LFS] F-86 Sabre_Compress
+resource.AddWorkshop( "2181557853" ) -- [LFS] AC-130
+resource.AddWorkshop( "1602356350" ) -- [LFS] Luftwaffe WWII Pack
+resource.AddWorkshop( "2519200220" ) -- [LFS] Grand Theft Auto: San Andreas Aircraft
+resource.AddWorkshop( "1666634529" ) -- [DK] Blue Ghawar {LFS}
+resource.AddWorkshop( "439526795" ) -- Error Hider
   
